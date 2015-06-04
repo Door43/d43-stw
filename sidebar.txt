@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[stw:home|Door43 (stw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-stw|d43-stw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-stw/archive/master.zip|d43-stw.zip]]
+
+**Recent Changes**
+{{changes>ns = stw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/stw|Ethnologue data]]
+
